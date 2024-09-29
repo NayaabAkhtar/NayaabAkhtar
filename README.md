@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayaabakhtar&label=Profile%20views&color=0e75b6&style=flat" alt="nayaabakhtar" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, MongoDB**
+- 🌱 I’m currently learning **ReactJs, NodeJs, MongoDB, ExpressJs**
 
 - 👨‍💻 All of my projects are available at [https://nayaabportfolio.netlify.app/](https://nayaabportfolio.netlify.app/)
 
